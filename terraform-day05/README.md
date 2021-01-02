@@ -33,3 +33,4 @@ Note: Terraform Cloud and Terraform CLI both have features called "workspaces," 
 
 * Extra Reading:
   * https://www.terraform.io/docs/cloud/workspaces/index.html
+  * https://www.terraform.io/docs/cloud/users-teams-organizations/api-tokens.html
