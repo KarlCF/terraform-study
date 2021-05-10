@@ -1,5 +1,5 @@
 # terraform-study
-my repository of notes while going through LinuxTips' course &lt;3
+my repository of notes while going through some terraform courses
 
 --- 
 
@@ -11,3 +11,7 @@ my repository of notes while going through LinuxTips' course &lt;3
 * https://github.com/zealvora/terraform-beginner-to-advanced-resource
 * https://www.udemy.com/course/terraform-associate-practice-exam/
 * https://www.udemy.com/course/terraform-beginner-to-advanced/
+
+# References
+
+* https://www.linuxtips.io/certificacao-terraform
